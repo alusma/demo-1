@@ -18,3 +18,6 @@
 ```javascript
 consol.log('hello;')
 ```
+我的网站是 [www.baidu.com](http;//baidu.com)
+
+![一张图片](1.jpg)
